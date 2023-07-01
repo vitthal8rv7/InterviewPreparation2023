@@ -1,3 +1,5 @@
+package com.hackerrank.problem.java;
+
 import java.io.*;
 import java.math.*;
 import java.security.*;
